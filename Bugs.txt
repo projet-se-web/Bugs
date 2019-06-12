@@ -1,7 +1,0 @@
-1. Reparat / Scos Edit Profile de pe fiecare tip de user
-2. Adaugat "Module" la "Add Request" (Employer) si "Requests List" (Employer + Trainer + Employee)
-3. Reparat Request-uri duplicate
-4. Reparat Punctaj pentru Employee
-5. Reparat Requests List la Trainer (atunci cand sunt mai multe Request-uri in lista, iar Trainer-ul redirectioneaza una singura catre un Employee, pagina isi face Refresh si dispar toate Request-urile, aparand "No available data")
-6. Reparat Pending Courses la Employee (de ultimele dati cand am redirectionat de la Trainer catre un Employee un curs anume, nu a mai aparut in Pending Courses la Employee)
-7. Nu mi se incarca cursurile (imi zice File Uploaded, dar dupa ce am dat Save si intru din nou, nu apare PDF-ul)
